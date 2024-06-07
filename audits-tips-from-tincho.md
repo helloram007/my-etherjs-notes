@@ -1,3 +1,15 @@
+- Add comments
+  - This will help your auditors understand what you're doing.
+- Use natspec
+  - Document your functions. DOCUMENT YOUR FUNCTIONS.
+- Test
+  - If you don't have tests, and test coverage of all your functions and lines of code, you shouldn't go to audit. If your tests don't pass, don't go to audit.
+- Be ready to talk to your auditors
+- The more communication, the better.
+- Be prepared to give them plenty of time.
+- They literally pour themselves over your code.
+> "At this time, there are 0 good auditors that can get you an audit in under a week. If an auditor says they can do it in that time frame, they are either doing you a favor or they are shit. " - Patrick Collins, March 4th, 2022
+
 ## When writing good code, you 100% need to follow these before sending you code to an audit.
 1. You cannot imagine the countless hours you save an auditor by just stating what you intend to do with that crazy obscure low-level assembly math thing that just multiplies two numbers. So, add comments.
 2. Document everything that is part of the contracts' public API. If functions are private . internal but are super sensitive, document them as well. Big big big plus for using NatSpec format!
