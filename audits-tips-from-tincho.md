@@ -1,3 +1,6 @@
+[Audit Youtube Link](https://github.com/PatrickAlphaC/hardhat-security-fcc).
+
+
 - Add comments
   - This will help your auditors understand what you're doing.
 - Use natspec
