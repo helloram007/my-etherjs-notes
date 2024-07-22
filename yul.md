@@ -3,10 +3,10 @@
 
 [Layout of state variable in storage](https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html#layout-of-state-variables-in-storage)
 
-Layout in memory
-Layout of calldata
-Yul (and Some Solidity) Optimizations and Tricks
-YUL Solidity fridays
-Bit operation code snippets
-Introduction to Yul+ by Nick Dodson
-Solidity Tutorial : all about Assembly
+[Layout in memory](https://docs.soliditylang.org/en/latest/internals/layout_in_memory.html#layout-in-memory)
+[Layout of calldata](https://docs.soliditylang.org/en/latest/internals/layout_in_calldata.html#layout-of-call-data)
+[Yul (and Some Solidity) Optimizations and Tricks](https://hackmd.io/@gn56kcRBQc6mOi7LCgbv1g/rJez8O8st)
+[YUL Solidity fridays](https://youtu.be/UrtuosfzmGU)
+[Bit operation code snippets](https://graphics.stanford.edu/~seander/bithacks.html#DetermineIfPowerOf2)
+[Introduction to Yul+ by Nick Dodson](https://youtu.be/GTwqEYyYy6I)
+[Solidity Tutorial : all about Assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
