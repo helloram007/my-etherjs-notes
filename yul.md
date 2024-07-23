@@ -31,3 +31,5 @@
 [Diamonds](https://eip2535diamonds.substack.com/p/useful-data-for-eip-2535-diamonds)
 
 [Account-Abstraction](https://moralis.io/what-is-account-abstraction-full-guide/)
+
+[Growing DeFi with layer-3 solutions: How aggregated rollups can help](https://cointelegraph.com/news/growing-defi-with-layer-3-solutions-how-aggregated-rollups-can-help)
