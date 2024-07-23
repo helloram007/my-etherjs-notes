@@ -29,3 +29,5 @@
 [Function Clashin](https://forum.openzeppelin.com/t/beware-of-the-proxy-learn-how-to-exploit-function-clashing/1070)
 
 [Diamonds](https://eip2535diamonds.substack.com/p/useful-data-for-eip-2535-diamonds)
+
+[Account-Abstraction](https://moralis.io/what-is-account-abstraction-full-guide/)
