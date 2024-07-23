@@ -18,3 +18,12 @@
 
 [Solidity Tutorial : all about Assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 
+
+
+[Openzeppelin Signature Recovery](https://docs.openzeppelin.com/contracts/2.x/utilities)
+
+[Openzeppelin bitmap](https://docs.openzeppelin.com/contracts/4.x/api/utils#BitMaps)
+
+[Solidity Bytes Arrays Utils](https://github.com/GNSPS/solidity-bytes-utils)
+
+[Function Clashin](https://forum.openzeppelin.com/t/beware-of-the-proxy-learn-how-to-exploit-function-clashing/1070)
