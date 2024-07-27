@@ -26,7 +26,7 @@
 
 [Solidity Bytes Arrays Utils](https://github.com/GNSPS/solidity-bytes-utils)
 
-[Function Clashin](https://forum.openzeppelin.com/t/beware-of-the-proxy-learn-how-to-exploit-function-clashing/1070)
+[Function Clashing](https://forum.openzeppelin.com/t/beware-of-the-proxy-learn-how-to-exploit-function-clashing/1070)
 
 [Diamonds](https://eip2535diamonds.substack.com/p/useful-data-for-eip-2535-diamonds)
 
